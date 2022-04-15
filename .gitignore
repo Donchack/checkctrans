@@ -1,0 +1,5 @@
+__pycache__/
+venv/
+checkctrans/__pycache__/
+tests/__pycache__/
+test.py
